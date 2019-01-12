@@ -19,4 +19,8 @@ html {
 }
 
 /* Write your solution here */
-
+#dolphin {
+  position: fixed;;
+  top: 400px;
+  right: 0;
+}
