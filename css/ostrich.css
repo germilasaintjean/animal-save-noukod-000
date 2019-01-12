@@ -9,4 +9,8 @@ html {
 }
 
 /* Write your solution here */
-
+#ostrich {
+  position: fixed;;
+  top: 50px;
+  right: 0;
+}
